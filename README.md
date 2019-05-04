@@ -22,7 +22,7 @@ After you have installed the package globally, you can enter in the command line
 
 This project consists of a simple "user" loop using `inquirer.js`. Some basic linting, mocha testing, and code transpiling is done using `Grunt`. Starting the package from the command line looks something like this:
 
-
+![demo](lib/demo.gif)
 
 ## Code
 

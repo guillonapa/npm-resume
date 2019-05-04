@@ -4,7 +4,8 @@
   "description": "Resume for Guillermo Narvaez-Paliza",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,15 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "inquirer": "^6.3.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "chai": "^4.2.0",
+    "grunt": "^1.0.4",
+    "grunt-babel": "^8.0.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "mocha": "^6.1.4"
   }
 }

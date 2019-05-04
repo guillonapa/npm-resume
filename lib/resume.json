@@ -1,0 +1,136 @@
+{
+    "Education": [
+        "Brandeis University, Waltham, MA",
+        "--------------------------------------",
+        "Bachelor of Science",
+        "Computer Science and Physics Double Major",
+        "Minor in Mathematics",
+        "GPA: 3.765 (Magna Cum Laude)"
+    ],
+    "Experience": {
+        "Software Engieer - TIBCO Software Inc.": [
+            "July 2018 - Present",
+            "• Design and develop features for the TIBCO StreamBase Studio IDE (development done in Java, against Eclipse APIs)", 
+            "• Author original design documents by interviewing field, customer and support databases",
+            "• Integrate current projects with other company products and/or support clients",
+            "• Design and create fully integrated demos used to demonstrate feature functionality and best practices",
+            "• Integrate and support features that enable the support team at TIBCO to address and troubleshoot complex customer issues",
+            "• Provide support for the StreamBase Project by triaging and resolving support requests from customers and other engineers"
+        ],
+        "Data Structures & Algorithms Head Teaching Assistant - Brandeis University": [
+            "August 2017 - May 2018",
+            "• Organize and lead review sessions for undergrad students", 
+            "• Design data structures and algorithms problems and programming assignments for students",
+            "• Lead a group of six teaching assistants for a course with over 80 students"
+        ],
+        "Software Engineering Intern - TIBCO Software Inc": [
+            "July 2017 - August 2017",
+            "• Developed the front and back end of a support wizard that enables users to troubleshoot software issues",
+            "• Shipped features for the company’s event processing software using Java",
+            "• Designed and developed a live-analytics demo using stream processing",
+            "• Customized the web interface used for the company’s data visualization software"
+        ],
+        "Complex Fluids Researcher - Brandeis University": [
+            "February 2016 - June 2017",
+            "• Researched at Rogers Lab studying soft matter and self-assembly processes",
+            "• Used microscopy techniques in order to identify patterns in equilibrium states and phase transitions",
+            "• Used graphic methods to process and analyze experimental data",
+            "• Wrote Matlab programs to simulate system behavior for any combination of physical parameters",
+            "• Derived mathematical models from fundamental chemical and physical principles to explain complex systems"
+        ]
+    },
+    "Skills": {
+        "Programming Languages": [
+            "• Java",
+            "• Ruby",
+            "• JavaScript",
+            "• HTML",
+            "• CSS",
+            "• Matlab"
+        ],
+        "Source Control": [
+            "• Git",
+            "• Svn"
+        ],
+        "Web Development": [
+            "• M(ongo)E(xpress)R(eact)N(ode) Stack",
+            "• Ruby on Rails",
+            "• Grunt",
+            "• Webpack"
+        ],
+        "Testing": [
+            "• JUnit (Java)",
+            "• Minitest (Rails)",
+            "• Mocha (JavaScript)"
+        ],
+        "Other": [
+            "• Eclipse Plug-in Development (Extending the Eclipse framework)",
+            "• Linux/Unix",
+            "• Database Management (SQL)",
+            "• Data Structures",
+            "• Advanced Algorithms",
+            "• UX",
+            "• Eclipse",
+            "• Maven",
+            "• Docker"
+        ]
+    },
+    "Honors & Awards": [
+        "• Michtom Prize for Academic Excellence in Computer Science",
+        "• Excellence in Physics Faculty Award",
+        "• All-Star First Team Athlete in Northeast Fencing Conference / Mexican Fencing National Champion",
+        "• All-Academic Honors (University Athletic Association)",
+        "• All-Star First Team Athlete in Northeast Fencing Conference / Mexican Fencing National Champion"
+    ],
+    "Relevant Courses": [
+        "• Programming in Java",
+        "• Discrete Structures",
+        "• Software Entrepreneurship",
+        "• Data Structures & Algorithms",
+        "• Structure & Interpretation of Computer Programs",
+        "• Scientific Data Processing (Matlab)",
+        "• Operating Systems",
+        "• Electronics Laboratory",
+        "• Theory of Computation",
+        "• Database Management Systems",
+        "• Capstone: Software Engineering",
+        "• Advanded Programming Techniques",
+        "• Theory of Probability",
+        "• Statistics",
+        "• Applied Linear Algebra",
+        "• Multivariable Calculus"
+    ],
+    "Leadership & Activities": [
+        "• Head Teaching Assistant at Brandeis University (Computer Science Dept.)",
+        "• Captain and member of the Brandeis Fencing Team (NCAA)",
+        "• Captain of the Fencing State of Mexico Squad",
+        "• Member of the Fencing National Team"
+    ],
+    "Scholarships & Fellowships": [
+        "Landsman Charitable Foundation Endowed Scholarship",
+        "Awarded to a Brandeis undergraduate student who excels in the sciences and shows great interest in engineering",
+        "",
+        "Materials Research Science & Engineering Centers (MRSEC) Fellowship",
+        "To support a project on DNA-induced self-assembly systems, their equilibrium states, and phase transitions"
+    ],
+    "Presentations & Publications": [
+        "\"Linker-mediated phase behavior of DNA-coated colloids\" arXiv, (2019).",
+        "  • Link: https://arxiv.org/abs/1902.08883",
+        "",
+        "\"Quantitative Study of Linker-Mediated Binding Between DNA-Coated Colloids\" (2016)",
+        "  • Poster presentation, Summer Science Research Program, Brandeis University",
+        "  • Waltham, MA, August 2016"
+    ],
+    "Projects": [
+        "www.guillermonarvaez.com",
+        "www.github.com/guillonapa",
+        "www.guillermo-narvaez.com"
+    ],
+    "Contact Info": [
+        "Guillermo Narvaez Paliza",
+        "guillonapa at gmail dot com",
+        "949.285.2892"
+    ]
+}
+
+

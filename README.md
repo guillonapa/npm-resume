@@ -4,23 +4,23 @@ This is a small project that I did so anyone can easily view my resume by simply
 
 ## Get Started
 
-To install globally in Mac, enter:
+To install globally in Mac, type:
 
 ```
 sudo npm install -g guillonapa-cv
 ```
 
-To install globally in Windows, enter:
+To install globally in Windows, type:
 
 ```
 npm install -g guillonapa-cv
 ```
 
-After you have installed the package globally, you can enter in the command line from anywhere `guillonapa-cv` to see my resume.
+After you have installed the package globally, you can enter from anywhere in the command line `guillonapa-cv` to browse my resume.
 
 ## Preview
 
-This project consists of a simple "user" loop using `inquirer.js`. Some basic linting, mocha testing, and code transpiling is done using `Grunt`. Starting the package from the command line looks something like this:
+This project consists of a simple 'Read-Eval-Print' loop using `inquirer.js`. Some basic linting, testing using Mocha, and code transpiling is done using Grunt. Starting the package from the command line looks something like this:
 
 ![demo](lib/demo.gif)
 

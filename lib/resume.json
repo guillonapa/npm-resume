@@ -40,39 +40,40 @@
         ]
     },
     "Skills": {
-        "Programming Languages": [
+        "General Development": [
+            "• Advanced algorithms and data structures",
+            "• Eclipse plug-in development",
+            "• Experience with Linux/Unix systems",
+            "• Database design and management",
+            "• Source control with Svn and Git",
+            "• Open source contributor and administrator using GitHub"
+        ],
+        "Languages & Frameworks": [
             "• Java",
-            "• Ruby",
-            "• JavaScript",
-            "• HTML",
-            "• CSS",
+            "• JavaScript (React)",
+            "• Python",
+            "• Ruby (Rails)",
+            "• Bash",
+            "• HTML/CSS",
             "• Matlab"
         ],
-        "Source Control": [
-            "• Git",
-            "• Svn"
-        ],
-        "Web Development": [
-            "• M(ongo)E(xpress)R(eact)N(ode) Stack",
-            "• Ruby on Rails",
-            "• Grunt",
-            "• Webpack"
+        "Desgin": [
+            "• Architecture specification",
+            "• User experience and flow diagrams",
+            "• Interface design"
         ],
         "Testing": [
-            "• JUnit (Java)",
-            "• Minitest (Rails)",
-            "• Mocha (JavaScript)"
+            "• Test driven development (TDD)",
+            "• Unit testing"
         ],
-        "Other": [
-            "• Eclipse Plug-in Development (Extending the Eclipse framework)",
-            "• Linux/Unix",
-            "• Database Management (SQL)",
-            "• Data Structures",
-            "• Advanced Algorithms",
-            "• UX",
-            "• Eclipse",
-            "• Maven",
-            "• Docker"
+        "Wikis & Documentation": [
+            "• Development plans",
+            "• Internal product and best practices documentation",
+            "• Product and feature design specifications"
+        ],
+        "Additional Tooling": [
+            "• Maven to manage projects",
+            "• Docker to containerize applications"
         ]
     },
     "Honors & Awards": [
